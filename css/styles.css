@@ -5,6 +5,31 @@ h2{
     background-color: green;
 }
 
+@media screen and (max-width 50rem) {
+    header,
+    main,
+    footer,
+    form p {
+        flex-direction: column;
+    }
+    form-input, textarea {
+        margin: 2px 0; 
+    }
+}
+
+#arrowgreen {
+    color: rgb(00,40,00)
+}
+
+.flashred {
+    color: rgb(60,00,00)
+}
+
+a {
+    color: green;
+    font-family: fantasy
+}
+
 
 
 body{
