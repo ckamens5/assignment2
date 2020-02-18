@@ -1,3 +1,10 @@
+html{
+    box-sizing: border-box;
+    margin:0;
+}
+
+
+
 h1,
 h2{
     color:rgb(218,22,47);
@@ -21,9 +28,11 @@ h2{
     color: rgb(00,40,00)
         
     border: 5px solid #903d3d;
-    padding-bottom: 15px;
     padding-top: 15px;
-    padding-left: 15px; 
+    padding-right: 15px;
+    padding-bottom: 15px; 
+    padding-left: 15px;
+    
     border-radius: 15px;
     
 }
@@ -44,3 +53,6 @@ body{
 }
 class="boringfont"
 
+margin-left auto
+margin-right auto 
+(centers element on page)
