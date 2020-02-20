@@ -15,7 +15,6 @@ h1,
 h2{
     color:rgb(218,22,47);
     font-family:fantasy;
-    background-color: green;
 }
 
 @media screen and (max-width 50rem) {
@@ -54,7 +53,14 @@ a {
 
 
 body{
-    background-color: #052505;
+/*    background-color: #052505;*/
+/*    background-image: url(images/arrowback3oliver.jpg);*/
+    
+    background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5), url(images/arrowback3oliver.jpg));
+    
+    background-size: cover;
+    background-position: center;
+    min-height: 100vh 
 }
 
 
