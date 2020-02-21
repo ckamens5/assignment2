@@ -50,6 +50,14 @@ h2{
     color:rgb(178, 188, 105);
 }
 
+.flashred{
+    background-color:rgb(85,00,00);
+}
+
+.supergirlblue{
+    background-color: darkblue
+}
+
 body{
 /*    background-color: #052505;*/
 /*    background-image: url(images/arrowback3oliver.jpg);*/
