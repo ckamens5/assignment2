@@ -58,6 +58,14 @@ h2{
     background-color: darkblue
 }
 
+.legendsbackground{
+    background-color:darkslateblue;
+}
+
+.batwomenbackground{
+    background-color: black
+}
+
 body{
 /*    background-color: #052505;*/
 /*    background-image: url(images/arrowback3oliver.jpg);*/
