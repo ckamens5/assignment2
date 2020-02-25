@@ -73,16 +73,26 @@ h2{
 .supergirlheading{
     color:deepskyblue 
 }
-body{
+
+.centercontainer{
+    margin-left: auto;
+    margin-right: auto; 
+    width:50%
+}
+
+.headercolor a{
+    color:deeppink
+}
+/*body{
 /*    background-color: #052505;*/
 /*    background-image: url(images/arrowback3oliver.jpg);*/
     
-    background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5), url(images/arrowback3oliver.jpg));
+    /*background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5), url(images/arrowback3oliver.jpg));
     
     background-size: cover;
     background-position: center;
-    min-height: 100vh 
-}
+    min-height: 100vh*/ 
+} */
 /*
 margin-left auto
 margin-right auto 
